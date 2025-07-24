@@ -13,5 +13,5 @@ Atualmente, continuo estudando para conquistar minha futura vaga como desenvolve
 
 ## Conecte-se comigo :mailbox_with_no_mail:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAMEjoão-pedro-cerqueira-de-oliveira-860504217/)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopedrocerqueira707@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-cerqueira-de-oliveira-860504217/)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopedrocerqueira707@gmail.com)
 
