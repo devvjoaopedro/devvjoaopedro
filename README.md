@@ -3,7 +3,7 @@
 
 ## Sobre mim :thought_balloon:
 Sou formado tecnólogo em Análise e Desenvolvimento de Sistemas. Estou na área de informática há mais de dois anos, atuando como técnico de informática, com foco em hardware, montagem e manutenção de desktops gamers e corporativos.
-Atualmente, continuo estudando para conquistar minha futura vaga como desenvolvedor de software — esse é um dos passos em direção ao futuro que desejo construir. :rocket:
+Atualmente, continuo estudando para conquistar minha futura vaga como desenvolvedor de software  esse é um dos passos em direção ao futuro que desejo construir. :rocket:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devvjoaopedro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
